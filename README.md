@@ -10,6 +10,11 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+
 - Actualmente estoy trabajando como desarrolador Python, pero necesito nuevos retos 
 - 🌱 Estoy estudiando y aplicado lo aprendido lenguaje de Python, SQL, Numpy, sin dejar de lado increibles herramientas de excel.
 - 😄 Donde encontrarme:
