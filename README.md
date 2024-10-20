@@ -39,3 +39,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
   </a>
 
 </div>
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lawlietii&theme=dark&background=000000)](https://git.io/streak-stats)
