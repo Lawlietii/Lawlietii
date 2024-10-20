@@ -4,10 +4,12 @@
 <div id="badges" align="center">
     <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lawlietii.Lawlietii&color=00cf00" alt="Visitas de perfil"/>
 </div>
+
 <h1>
   Hola soy Jaime. ¡Mucho gusto!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
  <div id="header" align="left">
 
