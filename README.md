@@ -24,3 +24,6 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
 
 * :mailbox: Donde encontrarme [![Linkedin Badge](https://img.shields.io/badge/-Jaime-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaime-hidalgo-408a5b317)
 
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
