@@ -15,6 +15,8 @@
 
 ### :man_technologist: Sobre mí :
 
+Apasionado de la tecnología y disfrutando de una transición laboral al Data Science <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - Actualmente estoy trabajando como desarrolador Python, pero necesito nuevos retos 
 - 🌱 Estoy estudiando y aplicado lo aprendido lenguaje de Python, SQL, Numpy, sin dejar de lado increibles herramientas de excel.
 - 😄 Donde encontrarme:
