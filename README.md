@@ -22,5 +22,5 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: Donde encontrarme [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaime-hidalgo-408a5b317)
+* :mailbox: Donde encontrarme [![Linkedin Badge](https://img.shields.io/badge/-Jaime-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaime-hidalgo-408a5b317)
 
